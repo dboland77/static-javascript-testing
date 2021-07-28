@@ -7,7 +7,7 @@
     "ecmaVersion": 12,
     "sourceType": "module"
   },
-  "extends": ["eslint: recommended"],
+  "extends": ["eslint:recommended"],
   "rules": {
     "strict": ["error", "never"]
     //     "valid-typeof": "error",
